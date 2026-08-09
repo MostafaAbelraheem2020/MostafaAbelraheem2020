@@ -51,7 +51,164 @@ Most production and client repositories are kept **private** to protect source c
 
 ## Projects Overview
 
+Projects are ordered by current presentation strength: production client platforms first, then AI platforms, then automation systems whose public UI surfaces are still evolving.
+
+### Flagship Production Platforms
+
+#### Bayoumy Co. | مبرمج ويب - تصميم مواقع شركات
+
+A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdewahab Bayoumy Company. منصة احترافية لشركة محمد عبد الوهاب بيومي للمقاولات، تم تطويرها بأحدث تقنيات البرمجة لضمان أداء عالٍ وتصدر نتائج البحث.
+
+**Goal / positioning**
+- Hybrid Rendering: SSG for content pages with Client-side interactivity
+- Edge Middleware: Security headers and route protection
+- Dynamic i18n: Client-side language switching with SEO-ready structure
+
+**Key features**
+- Advanced Internationalization (i18n) with Native Bilingual Support (AR/EN)
+- SEO-First Localization with dynamic hreflang tags
+- SSG (Static Site Generation) for 60+ projects and news items
+- Automated Visual Optimization (AVIF/WebP) with cache-control
+- Hardware-accelerated animations via Framer Motion
+- Comprehensive Metadata & Structured Data (JSON-LD) for all routes
+
+**Technical stack**  
+Next.js 16.1.6 (App Router, Server Components, Streaming) · React 19.2.4 (Latest React with Hooks and Context API) · TypeScript 5.9.3 (Strict type safety and improved DX) · Tailwind CSS 4.1.18 (Modern utility-first styling with @tailwindcss/postcss) · Framer Motion 12.34.0 (Advanced motion design and hardware-accelerated animations) · Lucide React 0.564.0 (Modern SVG icon library) · Resend API 6.9.3 (Scalable email delivery system) · Sharp 0.34.5 (High-performance image processing) · Swiper 12.1.1 (Interactive and touch-responsive carousels) · ESLint 10 & Prettier (Strict code quality and formatting)
+
+**Engineering strategies**
+- Optimized Asset Pipeline: Next/Image with AVIF/WebP support
+- Component-based Architecture: Highly modular and reusable React components
+- Motion-First UX: Seamless transitions and hardware-accelerated animations
+- Anti-Spam Security: Honeypot fields and rate-limiting for all forms
+
+**Performance**
+- Static Site Generation (SSG) for sub-second page loads
+- Advanced Image Optimization using Next.js Image component
+- Code-splitting and Lazy Loading for non-critical assets
+- Font optimization via next/font with local storage caching
+
+- **Live / demo:** https://www.mabdelwahabconstructions.com/
+- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/1
+
+---
+
+#### Voyajar | Travel Discovery & Affiliate Platform
+
+Voyajar is a production travel discovery and affiliate platform with bilingual Arabic/English experiences, hotel and flights discovery, destination guides, SEO-focused content, and an admin CMS covering media, affiliate links, click logging, users, and performance analytics.
+
+**Goal / positioning**
+- Blend SEO content (guides/blog) with transactional search widgets
+- Centralize affiliate tracking for measurable conversion loops
+- Keep CMS tooling in-product for fast content operations
+
+**Key features**
+- English-first global travel discovery with Arabic localization
+- Hotel search experience with destination-oriented browsing
+- Flights search surfaces for high-intent traffic
+- SEO-ready destination guides and blog content hubs
+- Affiliate link management with click logging
+- Admin dashboard for hotels, destinations, media, and users
+
+**Technical stack**  
+Next.js 16.2.9 (App Router) · React 19.2.5 · TypeScript · next-intl for multilingual routing/content · NextAuth.js v5 · MongoDB 7 · TanStack React Query · Framer Motion + Tailwind CSS · OpenAI integrations for content/workflows where used · Vercel production hosting
+
+**Engineering strategies**
+- Ship bilingual UX from day one for MENA + global traffic
+- Use analytics surfaces to guide destination and campaign priorities
+
+**Performance**
+- Next.js App Router with modern React 19 rendering
+- React Query for efficient client data states
+- Optimized media handling in CMS/media library
+- Route-level code splitting for search and content hubs
+
+**Security & reliability**
+- NextAuth-protected admin operations
+- Audit log for sensitive CMS actions
+- Controlled affiliate redirect/click logging
+- Environment-separated production credentials
+
+- **Live / demo:** https://www.voyajar.com/
+- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/14
+
+---
+
+#### PharmaFlow | انشاء متجر اليكتروني صيدلي
+
+A cutting-edge, production-ready Pharmacy SaaS solution. حل تقني متطور لإنشاء المتاجر الإلكترونية للصيدليات، يدعم اللغتين العربية والإنجليزية مع نظام إدارة متكامل وبرمجة عالية الأداء.
+
+**Goal / positioning**
+- Hybrid Data Enrichment: Scraped data merging with fuzzy-matching for master catalog enrichment
+- PWA Lifecycle management: Seamless offline access and background refresh capabilities
+- Edge Middleware Routing: Security headers and locale-aware redirection logic
+
+**Key features**
+- Advanced Internationalization (i18n) with Native RTL/LTR Support (AR/EN)
+- Progressive Web App (PWA) - Fully installable on iOS and Android with offline capabilities
+- Master Catalog Scaling with fuzzy-matching algorithms for multi-source data enrichment
+- Real-time Push Notifications via Web-push API for order and consultation updates
+- Secure Administrative Dashboard for Order Tracking and Automated Stock Control
+- Professional Digital Prescription Review Interface for licensed pharmacists
+
+**Technical stack**  
+Next.js 15.2.1 (App Router, Server Components, Streaming, Route Handlers) · React 19.2.4 (Latest React with Concurrent Rendering and Action Hooks) · TypeScript 5.8.0 (Strict type safety and improved DX for enterprise applications) · Tailwind CSS 4.0.0 (Modern utility-first styling with native PostCSS support) · MongoDB 7.1.1 (High-performance document-oriented cloud database) · Mongoose 9.3.2 (Elegant MongoDB object modeling and schema validation) · NextAuth.js 5.0.0-beta.30 (Modern authentication and session management) · Next-intl 4.8.3 (Dynamic localization and SEO-ready i18n structure) · Cloudinary 2.9.0 (Advanced media management and global CDN delivery) · Web-push 3.6.7 (Scalable push notifications system for PWA)
+
+**Engineering strategies**
+- Decoupled Micro-Scripts: Independent scripting layer for safe data ingestion
+- Modular UI Componentry: Highly reusable React 19 components inspired by shadcn/ui
+- SEO-First Architecture: Bilingual metadata generation for all dynamic routes
+- Resilient Auth Implementation: Combined JWT and Database strategies for session persistence
+
+**Performance**
+- Server Components (RSC) for zero-bundle-size rendering logic
+- Cloudinary-backed Next/Image for optimized responsive assets
+- Aggressive route prefetching for instant navigation
+- Optimized MongoDB indexing for sub-second catalog queries
+
+- **Live / demo:** https://pharmacy-website-pwa.vercel.app/en
+- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/2
+
+---
+
+#### Nuzlaa | مبرمج ويب - منصة حجز فنادق
+
+A high-performance travel affiliate platform. نُزلاء هي منصة سياحية عالمية تعتمد على تقنيات الذكاء الاصطناعي في البحث وتوفير أفضل العروض، تم برمجتها لتكون الأسرع في فئتها.
+
+**Goal / positioning**
+- Localized Affiliate Marketing: Arabic-first approach for MENA markets
+- Scalable Content Pipeline: Dynamic NoSQL schema for global destinations
+- Performance-First Architecture: Hybrid rendering with aggressive caching
+
+**Key features**
+- Advanced Hotel Search Engine with global availability
+- International Flight Search & Comparison integration
+- Dynamic Destination Guides with SEO-optimized content
+- Smart Affiliate Link Management System for 28+ programs
+- Native Multi-language Support (i18n) focused on Arabic and English
+- High-performance SSG & ISR for sub-second page loads
+
+**Technical stack**  
+Next.js 16.2.3 (App Router, Server Components, Streaming) · React 19.2.5 (Latest React with Server Actions) · TypeScript 5.9.3 (Strict type safety and robust DX) · Tailwind CSS 4.2.2 (Modern utility-first styling with PostCSS) · MongoDB 7.1.1 (High-performance NoSQL document storage) · Next-Intl 4.9.1 (Comprehensive i18n management) · Lucide React 1.8.0 (Modern SVG icon library) · Sharp 0.34.5 (High-performance image optimization) · Next-PWA 5.6.0 (Zero-config PWA plugin) · Vitest 3.2.4 (Fast unit testing framework)
+
+**Engineering strategies**
+- Universal Search Experience: Unified interface for multi-provider bookings
+- SEO Domination: Advanced metadata, structured data, and i18n routing
+- Mobile App Readiness: PWA integration for cross-platform accessibility
+
+**Performance**
+- Incremental Static Regeneration (ISR) for real-time content updates
+- Server-side Image Optimization using Sharp and Next/Image
+- Reduced Bundle Size with Tailwind 4 and tree-shaken Lucide icons
+- Streaming and Suspense for asynchronous data fetching
+
+- **Live / demo:** https://nuzlaa.com/
+- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/3
+
+---
+
 ### AI Platforms & Agents
+
+> Note: platform preview surfaces are live; selected operational UI areas continue to evolve behind feature flags.
 
 #### Assistants Pro AI | Multi-Agent Business Platform
 
@@ -136,160 +293,9 @@ Next.js 16 + React 19 clinic frontend · n8n clinic workflow orchestration · Op
 
 ---
 
-### Production Web Platforms
-
-#### Voyajar | Travel Discovery & Affiliate Platform
-
-Voyajar is a production travel discovery and affiliate platform with bilingual Arabic/English experiences, hotel and flights discovery, destination guides, SEO-focused content, and an admin CMS covering media, affiliate links, click logging, users, and performance analytics.
-
-**Goal / positioning**
-- Blend SEO content (guides/blog) with transactional search widgets
-- Centralize affiliate tracking for measurable conversion loops
-- Keep CMS tooling in-product for fast content operations
-
-**Key features**
-- English-first global travel discovery with Arabic localization
-- Hotel search experience with destination-oriented browsing
-- Flights search surfaces for high-intent traffic
-- SEO-ready destination guides and blog content hubs
-- Affiliate link management with click logging
-- Admin dashboard for hotels, destinations, media, and users
-
-**Technical stack**  
-Next.js 16.2.9 (App Router) · React 19.2.5 · TypeScript · next-intl for multilingual routing/content · NextAuth.js v5 · MongoDB 7 · TanStack React Query · Framer Motion + Tailwind CSS · OpenAI integrations for content/workflows where used · Vercel production hosting
-
-**Engineering strategies**
-- Ship bilingual UX from day one for MENA + global traffic
-- Use analytics surfaces to guide destination and campaign priorities
-
-**Performance**
-- Next.js App Router with modern React 19 rendering
-- React Query for efficient client data states
-- Optimized media handling in CMS/media library
-- Route-level code splitting for search and content hubs
-
-**Security & reliability**
-- NextAuth-protected admin operations
-- Audit log for sensitive CMS actions
-- Controlled affiliate redirect/click logging
-- Environment-separated production credentials
-
-- **Live / demo:** https://www.voyajar.com/
-- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/14
-
----
-
-#### Bayoumy Co. | مبرمج ويب - تصميم مواقع شركات
-
-A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdewahab Bayoumy Company. منصة احترافية لشركة محمد عبد الوهاب بيومي للمقاولات، تم تطويرها بأحدث تقنيات البرمجة لضمان أداء عالٍ وتصدر نتائج البحث.
-
-**Goal / positioning**
-- Hybrid Rendering: SSG for content pages with Client-side interactivity
-- Edge Middleware: Security headers and route protection
-- Dynamic i18n: Client-side language switching with SEO-ready structure
-
-**Key features**
-- Advanced Internationalization (i18n) with Native Bilingual Support (AR/EN)
-- SEO-First Localization with dynamic hreflang tags
-- SSG (Static Site Generation) for 60+ projects and news items
-- Automated Visual Optimization (AVIF/WebP) with cache-control
-- Hardware-accelerated animations via Framer Motion
-- Comprehensive Metadata & Structured Data (JSON-LD) for all routes
-
-**Technical stack**  
-Next.js 16.1.6 (App Router, Server Components, Streaming) · React 19.2.4 (Latest React with Hooks and Context API) · TypeScript 5.9.3 (Strict type safety and improved DX) · Tailwind CSS 4.1.18 (Modern utility-first styling with @tailwindcss/postcss) · Framer Motion 12.34.0 (Advanced motion design and hardware-accelerated animations) · Lucide React 0.564.0 (Modern SVG icon library) · Resend API 6.9.3 (Scalable email delivery system) · Sharp 0.34.5 (High-performance image processing) · Swiper 12.1.1 (Interactive and touch-responsive carousels) · ESLint 10 & Prettier (Strict code quality and formatting)
-
-**Engineering strategies**
-- Optimized Asset Pipeline: Next/Image with AVIF/WebP support
-- Component-based Architecture: Highly modular and reusable React components
-- Motion-First UX: Seamless transitions and hardware-accelerated animations
-- Anti-Spam Security: Honeypot fields and rate-limiting for all forms
-
-**Performance**
-- Static Site Generation (SSG) for sub-second page loads
-- Advanced Image Optimization using Next.js Image component
-- Code-splitting and Lazy Loading for non-critical assets
-- Font optimization via next/font with local storage caching
-
-- **Live / demo:** https://www.mabdelwahabconstructions.com/
-- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/1
-
----
-
-#### PharmaFlow | انشاء متجر اليكتروني صيدلي
-
-A cutting-edge, production-ready Pharmacy SaaS solution. حل تقني متطور لإنشاء المتاجر الإلكترونية للصيدليات، يدعم اللغتين العربية والإنجليزية مع نظام إدارة متكامل وبرمجة عالية الأداء.
-
-**Goal / positioning**
-- Hybrid Data Enrichment: Scraped data merging with fuzzy-matching for master catalog enrichment
-- PWA Lifecycle management: Seamless offline access and background refresh capabilities
-- Edge Middleware Routing: Security headers and locale-aware redirection logic
-
-**Key features**
-- Advanced Internationalization (i18n) with Native RTL/LTR Support (AR/EN)
-- Progressive Web App (PWA) - Fully installable on iOS and Android with offline capabilities
-- Master Catalog Scaling with fuzzy-matching algorithms for multi-source data enrichment
-- Real-time Push Notifications via Web-push API for order and consultation updates
-- Secure Administrative Dashboard for Order Tracking and Automated Stock Control
-- Professional Digital Prescription Review Interface for licensed pharmacists
-
-**Technical stack**  
-Next.js 15.2.1 (App Router, Server Components, Streaming, Route Handlers) · React 19.2.4 (Latest React with Concurrent Rendering and Action Hooks) · TypeScript 5.8.0 (Strict type safety and improved DX for enterprise applications) · Tailwind CSS 4.0.0 (Modern utility-first styling with native PostCSS support) · MongoDB 7.1.1 (High-performance document-oriented cloud database) · Mongoose 9.3.2 (Elegant MongoDB object modeling and schema validation) · NextAuth.js 5.0.0-beta.30 (Modern authentication and session management) · Next-intl 4.8.3 (Dynamic localization and SEO-ready i18n structure) · Cloudinary 2.9.0 (Advanced media management and global CDN delivery) · Web-push 3.6.7 (Scalable push notifications system for PWA)
-
-**Engineering strategies**
-- Decoupled Micro-Scripts: Independent scripting layer for safe data ingestion
-- Modular UI Componentry: Highly reusable React 19 components inspired by shadcn/ui
-- SEO-First Architecture: Bilingual metadata generation for all dynamic routes
-- Resilient Auth Implementation: Combined JWT and Database strategies for session persistence
-
-**Performance**
-- Server Components (RSC) for zero-bundle-size rendering logic
-- Cloudinary-backed Next/Image for optimized responsive assets
-- Aggressive route prefetching for instant navigation
-- Optimized MongoDB indexing for sub-second catalog queries
-
-- **Live / demo:** https://pharmacy-website-pwa.vercel.app/en
-- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/2
-
----
-
-#### Nuzlaa | مبرمج ويب - منصة حجز فنادق
-
-A high-performance travel affiliate platform. نُزلاء هي منصة سياحية عالمية تعتمد على تقنيات الذكاء الاصطناعي في البحث وتوفير أفضل العروض، تم برمجتها لتكون الأسرع في فئتها.
-
-**Goal / positioning**
-- Localized Affiliate Marketing: Arabic-first approach for MENA markets
-- Scalable Content Pipeline: Dynamic NoSQL schema for global destinations
-- Performance-First Architecture: Hybrid rendering with aggressive caching
-
-**Key features**
-- Advanced Hotel Search Engine with global availability
-- International Flight Search & Comparison integration
-- Dynamic Destination Guides with SEO-optimized content
-- Smart Affiliate Link Management System for 28+ programs
-- Native Multi-language Support (i18n) focused on Arabic and English
-- High-performance SSG & ISR for sub-second page loads
-
-**Technical stack**  
-Next.js 16.2.3 (App Router, Server Components, Streaming) · React 19.2.5 (Latest React with Server Actions) · TypeScript 5.9.3 (Strict type safety and robust DX) · Tailwind CSS 4.2.2 (Modern utility-first styling with PostCSS) · MongoDB 7.1.1 (High-performance NoSQL document storage) · Next-Intl 4.9.1 (Comprehensive i18n management) · Lucide React 1.8.0 (Modern SVG icon library) · Sharp 0.34.5 (High-performance image optimization) · Next-PWA 5.6.0 (Zero-config PWA plugin) · Vitest 3.2.4 (Fast unit testing framework)
-
-**Engineering strategies**
-- Universal Search Experience: Unified interface for multi-provider bookings
-- SEO Domination: Advanced metadata, structured data, and i18n routing
-- Mobile App Readiness: PWA integration for cross-platform accessibility
-
-**Performance**
-- Incremental Static Regeneration (ISR) for real-time content updates
-- Server-side Image Optimization using Sharp and Next/Image
-- Reduced Bundle Size with Tailwind 4 and tree-shaken Lucide icons
-- Streaming and Suspense for asynchronous data fetching
-
-- **Live / demo:** https://nuzlaa.com/
-- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/3
-
----
-
 ### AI Automation & Workflow Systems
+
+> Note: the automation backends below are production-capable; some public-facing UI packaging is still under active development.
 
 #### Jobs Publishing Agent | AI WordPress Automation Workflow
 
@@ -638,4 +644,4 @@ Selected documentation and live previews are publicly available through this pro
 
 ---
 
-*For recruiters and technical reviewers: start with Voyajar, Assistants Pro AI / Dawrak, PharmaFlow, and Mohamed Abdelwahab Constructions — then open the live demos above for product-level validation.*
+*For recruiters and technical reviewers: start with Mohamed Abdelwahab Constructions and Voyajar, then PharmaFlow / Nuzlaa. Review AI platforms and automation demos after the production web platforms — some automation and agent UI packaging is still under active development.*
