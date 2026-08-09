@@ -169,6 +169,7 @@ Next.js 15.2.1 (App Router, Server Components, Streaming, Route Handlers) Â· R
 
 - **Live / demo:** https://pharmacy-website-pwa.vercel.app/en
 - **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/2
+- **Public showcase:** https://github.com/MostafaAbelraheem2020/pharmaflow-showcase
 
 ---
 
@@ -251,6 +252,8 @@ Next.js 16 (platform-web App Router) Â· React 19 + TypeScript Â· Tailwind CS
 
 - **Live / demo:** https://assistants-pro-ai.vercel.app/
 - **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/12
+- **Public showcase (Marshal Agent):** https://github.com/MostafaAbelraheem2020/marshal-agent-showcase
+- **Public showcase (Assistants Pro):** https://github.com/MostafaAbelraheem2020/mabdelwahab-constructions-showcase
 
 ---
 
@@ -647,4 +650,5 @@ Selected documentation and live previews are publicly available through this pro
 ---
 
 *For recruiters and technical reviewers: start with Mohamed Abdelwahab Constructions and Voyajar, then PharmaFlow / Nuzlaa. Review AI platforms and automation demos after the production web platforms â€” some automation and agent UI packaging is still under active development.*
+
 
