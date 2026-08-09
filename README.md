@@ -253,7 +253,6 @@ Next.js 16 (platform-web App Router) Â· React 19 + TypeScript Â· Tailwind CS
 - **Live / demo:** https://assistants-pro-ai.vercel.app/
 - **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/12
 - **Public showcase (Marshal Agent):** https://github.com/MostafaAbelraheem2020/marshal-agent-showcase
-- **Public showcase (Assistants Pro):** https://github.com/MostafaAbelraheem2020/mabdelwahab-constructions-showcase
 
 ---
 
