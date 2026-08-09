@@ -1,7 +1,7 @@
-﻿# Hi, I'm Mostafa Abdelraheem
+# Hi, I'm Mostafa Abdelraheem
 
 **Full-Stack Engineer & AI Automation Specialist**  
-Next.js Â· TypeScript Â· Node.js Â· SaaS Â· AI Agents Â· n8n Automation
+Next.js · TypeScript · Node.js · SaaS · AI Agents · n8n Automation
 
 I build production-ready web platforms, SaaS products, and AI-powered automation systems focused on scalable architecture, performance, bilingual experiences, and real business workflows.
 
@@ -40,12 +40,12 @@ Most production and client repositories are kept **private** to protect source c
 
 ## Services
 
-- **Full-Stack Web Platforms** â€” Next.js / React / TypeScript products, dashboards, SaaS tools, e-commerce, bilingual websites
-- **n8n Workflow Automation** â€” scheduled workflows, webhooks, publishing pipelines, notifications, operational automations
-- **AI Chatbots & Agents** â€” website assistants, lead capture, memory-enabled agents, multilingual response behavior
-- **Generative AI Integrations** â€” OpenAI/Gemini features, structured JSON output, prompt systems, content automation
-- **API & Webhook Automation** â€” CRM, WordPress, Telegram, WhatsApp, Airtable, and custom backend integrations
-- **SEO & Content Automation** â€” technical SEO, metadata, structured data, safe publishing pipelines
+- **Full-Stack Web Platforms** — Next.js / React / TypeScript products, dashboards, SaaS tools, e-commerce, bilingual websites
+- **n8n Workflow Automation** — scheduled workflows, webhooks, publishing pipelines, notifications, operational automations
+- **AI Chatbots & Agents** — website assistants, lead capture, memory-enabled agents, multilingual response behavior
+- **Generative AI Integrations** — OpenAI/Gemini features, structured JSON output, prompt systems, content automation
+- **API & Webhook Automation** — CRM, WordPress, Telegram, WhatsApp, Airtable, and custom backend integrations
+- **SEO & Content Automation** — technical SEO, metadata, structured data, safe publishing pipelines
 
 ---
 
@@ -55,9 +55,9 @@ Projects are ordered by current presentation strength: production client platfor
 
 ### Flagship Production Platforms
 
-#### Bayoumy Co. | Ù…Ø¨Ø±Ù…Ø¬ ÙˆÙŠØ¨ - ØªØµÙ…ÙŠÙ… Ù…ÙˆØ§Ù‚Ø¹ Ø´Ø±ÙƒØ§Øª
+#### Bayoumy Co. | Corporate Construction Website
 
-A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdewahab Bayoumy Company. Ù…Ù†ØµØ© Ø§Ø­ØªØ±Ø§ÙÙŠØ© Ù„Ø´Ø±ÙƒØ© Ù…Ø­Ù…Ø¯ Ø¹Ø¨Ø¯ Ø§Ù„ÙˆÙ‡Ø§Ø¨ Ø¨ÙŠÙˆÙ…ÙŠ Ù„Ù„Ù…Ù‚Ø§ÙˆÙ„Ø§ØªØŒ ØªÙ… ØªØ·ÙˆÙŠØ±Ù‡Ø§ Ø¨Ø£Ø­Ø¯Ø« ØªÙ‚Ù†ÙŠØ§Øª Ø§Ù„Ø¨Ø±Ù…Ø¬Ø© Ù„Ø¶Ù…Ø§Ù† Ø£Ø¯Ø§Ø¡ Ø¹Ø§Ù„Ù ÙˆØªØµØ¯Ø± Ù†ØªØ§Ø¦Ø¬ Ø§Ù„Ø¨Ø­Ø«.
+A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdewahab Bayoumy Company.
 
 **Goal / positioning**
 - Hybrid Rendering: SSG for content pages with Client-side interactivity
@@ -73,7 +73,7 @@ A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdew
 - Comprehensive Metadata & Structured Data (JSON-LD) for all routes
 
 **Technical stack**  
-Next.js 16.1.6 (App Router, Server Components, Streaming) Â· React 19.2.4 (Latest React with Hooks and Context API) Â· TypeScript 5.9.3 (Strict type safety and improved DX) Â· Tailwind CSS 4.1.18 (Modern utility-first styling with @tailwindcss/postcss) Â· Framer Motion 12.34.0 (Advanced motion design and hardware-accelerated animations) Â· Lucide React 0.564.0 (Modern SVG icon library) Â· Resend API 6.9.3 (Scalable email delivery system) Â· Sharp 0.34.5 (High-performance image processing) Â· Swiper 12.1.1 (Interactive and touch-responsive carousels) Â· ESLint 10 & Prettier (Strict code quality and formatting)
+Next.js 16.1.6 (App Router, Server Components, Streaming) · React 19.2.4 (Latest React with Hooks and Context API) · TypeScript 5.9.3 (Strict type safety and improved DX) · Tailwind CSS 4.1.18 (Modern utility-first styling with @tailwindcss/postcss) · Framer Motion 12.34.0 (Advanced motion design and hardware-accelerated animations) · Lucide React 0.564.0 (Modern SVG icon library) · Resend API 6.9.3 (Scalable email delivery system) · Sharp 0.34.5 (High-performance image processing) · Swiper 12.1.1 (Interactive and touch-responsive carousels) · ESLint 10 & Prettier (Strict code quality and formatting)
 
 **Engineering strategies**
 - Optimized Asset Pipeline: Next/Image with AVIF/WebP support
@@ -111,7 +111,7 @@ Voyajar is a production travel discovery and affiliate platform with bilingual A
 - Admin dashboard for hotels, destinations, media, and users
 
 **Technical stack**  
-Next.js 16.2.9 (App Router) Â· React 19.2.5 Â· TypeScript Â· next-intl for multilingual routing/content Â· NextAuth.js v5 Â· MongoDB 7 Â· TanStack React Query Â· Framer Motion + Tailwind CSS Â· OpenAI integrations for content/workflows where used Â· Vercel production hosting
+Next.js 16.2.9 (App Router) · React 19.2.5 · TypeScript · next-intl for multilingual routing/content · NextAuth.js v5 · MongoDB 7 · TanStack React Query · Framer Motion + Tailwind CSS · OpenAI integrations for content/workflows where used · Vercel production hosting
 
 **Engineering strategies**
 - Ship bilingual UX from day one for MENA + global traffic
@@ -135,9 +135,9 @@ Next.js 16.2.9 (App Router) Â· React 19.2.5 Â· TypeScript Â· next-intl for
 
 ---
 
-#### PharmaFlow | Ø§Ù†Ø´Ø§Ø¡ Ù…ØªØ¬Ø± Ø§Ù„ÙŠÙƒØªØ±ÙˆÙ†ÙŠ ØµÙŠØ¯Ù„ÙŠ
+#### PharmaFlow | Pharmacy Ecommerce SaaS & PWA
 
-A cutting-edge, production-ready Pharmacy SaaS solution. Ø­Ù„ ØªÙ‚Ù†ÙŠ Ù…ØªØ·ÙˆØ± Ù„Ø¥Ù†Ø´Ø§Ø¡ Ø§Ù„Ù…ØªØ§Ø¬Ø± Ø§Ù„Ø¥Ù„ÙƒØªØ±ÙˆÙ†ÙŠØ© Ù„Ù„ØµÙŠØ¯Ù„ÙŠØ§ØªØŒ ÙŠØ¯Ø¹Ù… Ø§Ù„Ù„ØºØªÙŠÙ† Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© ÙˆØ§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠØ© Ù…Ø¹ Ù†Ø¸Ø§Ù… Ø¥Ø¯Ø§Ø±Ø© Ù…ØªÙƒØ§Ù…Ù„ ÙˆØ¨Ø±Ù…Ø¬Ø© Ø¹Ø§Ù„ÙŠØ© Ø§Ù„Ø£Ø¯Ø§Ø¡.
+A cutting-edge, production-ready Pharmacy SaaS solution.
 
 **Goal / positioning**
 - Hybrid Data Enrichment: Scraped data merging with fuzzy-matching for master catalog enrichment
@@ -153,7 +153,7 @@ A cutting-edge, production-ready Pharmacy SaaS solution. Ø­Ù„ ØªÙ‚Ù�
 - Professional Digital Prescription Review Interface for licensed pharmacists
 
 **Technical stack**  
-Next.js 15.2.1 (App Router, Server Components, Streaming, Route Handlers) Â· React 19.2.4 (Latest React with Concurrent Rendering and Action Hooks) Â· TypeScript 5.8.0 (Strict type safety and improved DX for enterprise applications) Â· Tailwind CSS 4.0.0 (Modern utility-first styling with native PostCSS support) Â· MongoDB 7.1.1 (High-performance document-oriented cloud database) Â· Mongoose 9.3.2 (Elegant MongoDB object modeling and schema validation) Â· NextAuth.js 5.0.0-beta.30 (Modern authentication and session management) Â· Next-intl 4.8.3 (Dynamic localization and SEO-ready i18n structure) Â· Cloudinary 2.9.0 (Advanced media management and global CDN delivery) Â· Web-push 3.6.7 (Scalable push notifications system for PWA)
+Next.js 15.2.1 (App Router, Server Components, Streaming, Route Handlers) · React 19.2.4 (Latest React with Concurrent Rendering and Action Hooks) · TypeScript 5.8.0 (Strict type safety and improved DX for enterprise applications) · Tailwind CSS 4.0.0 (Modern utility-first styling with native PostCSS support) · MongoDB 7.1.1 (High-performance document-oriented cloud database) · Mongoose 9.3.2 (Elegant MongoDB object modeling and schema validation) · NextAuth.js 5.0.0-beta.30 (Modern authentication and session management) · Next-intl 4.8.3 (Dynamic localization and SEO-ready i18n structure) · Cloudinary 2.9.0 (Advanced media management and global CDN delivery) · Web-push 3.6.7 (Scalable push notifications system for PWA)
 
 **Engineering strategies**
 - Decoupled Micro-Scripts: Independent scripting layer for safe data ingestion
@@ -173,9 +173,9 @@ Next.js 15.2.1 (App Router, Server Components, Streaming, Route Handlers) Â· R
 
 ---
 
-#### Nuzlaa | Ù…Ø¨Ø±Ù…Ø¬ ÙˆÙŠØ¨ - Ù…Ù†ØµØ© Ø­Ø¬Ø² ÙÙ†Ø§Ø¯Ù‚
+#### Nuzlaa | Hotel Booking & Travel Affiliate Platform
 
-A high-performance travel affiliate platform. Ù†ÙØ²Ù„Ø§Ø¡ Ù‡ÙŠ Ù…Ù†ØµØ© Ø³ÙŠØ§Ø­ÙŠØ© Ø¹Ø§Ù„Ù…ÙŠØ© ØªØ¹ØªÙ…Ø¯ Ø¹Ù„Ù‰ ØªÙ‚Ù†ÙŠØ§Øª Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ ÙÙŠ Ø§Ù„Ø¨Ø­Ø« ÙˆØªÙˆÙÙŠØ± Ø£ÙØ¶Ù„ Ø§Ù„Ø¹Ø±ÙˆØ¶ØŒ ØªÙ… Ø¨Ø±Ù…Ø¬ØªÙ‡Ø§ Ù„ØªÙƒÙˆÙ† Ø§Ù„Ø£Ø³Ø±Ø¹ ÙÙŠ ÙØ¦ØªÙ‡Ø§.
+A high-performance travel affiliate platform.
 
 **Goal / positioning**
 - Localized Affiliate Marketing: Arabic-first approach for MENA markets
@@ -191,7 +191,7 @@ A high-performance travel affiliate platform. Ù†ÙØ²Ù„Ø§Ø¡ Ù‡Ù
 - High-performance SSG & ISR for sub-second page loads
 
 **Technical stack**  
-Next.js 16.2.3 (App Router, Server Components, Streaming) Â· React 19.2.5 (Latest React with Server Actions) Â· TypeScript 5.9.3 (Strict type safety and robust DX) Â· Tailwind CSS 4.2.2 (Modern utility-first styling with PostCSS) Â· MongoDB 7.1.1 (High-performance NoSQL document storage) Â· Next-Intl 4.9.1 (Comprehensive i18n management) Â· Lucide React 1.8.0 (Modern SVG icon library) Â· Sharp 0.34.5 (High-performance image optimization) Â· Next-PWA 5.6.0 (Zero-config PWA plugin) Â· Vitest 3.2.4 (Fast unit testing framework)
+Next.js 16.2.3 (App Router, Server Components, Streaming) · React 19.2.5 (Latest React with Server Actions) · TypeScript 5.9.3 (Strict type safety and robust DX) · Tailwind CSS 4.2.2 (Modern utility-first styling with PostCSS) · MongoDB 7.1.1 (High-performance NoSQL document storage) · Next-Intl 4.9.1 (Comprehensive i18n management) · Lucide React 1.8.0 (Modern SVG icon library) · Sharp 0.34.5 (High-performance image optimization) · Next-PWA 5.6.0 (Zero-config PWA plugin) · Vitest 3.2.4 (Fast unit testing framework)
 
 **Engineering strategies**
 - Universal Search Experience: Unified interface for multi-provider bookings
@@ -231,7 +231,7 @@ Assistants Pro AI is a multi-tenant platform for packaging business AI agents un
 - Verified channel-resolver contracts for endpoint/participant isolation
 
 **Technical stack**  
-Next.js 16 (platform-web App Router) Â· React 19 + TypeScript Â· Tailwind CSS design system Â· Monorepo packages (@assistant-pro-plus/*) Â· n8n workflow orchestration on VPS Â· MongoDB Atlas foundation (synthetic/local contracts) Â· Vitest + evidence-gated delivery process Â· Vercel hosting for public preview
+Next.js 16 (platform-web App Router) · React 19 + TypeScript · Tailwind CSS design system · Monorepo packages (@assistant-pro-plus/*) · n8n workflow orchestration on VPS · MongoDB Atlas foundation (synthetic/local contracts) · Vitest + evidence-gated delivery process · Vercel hosting for public preview
 
 **Engineering strategies**
 - Transfer workflow authority into the platform tree with rollback backups
@@ -274,7 +274,7 @@ Dawrak is a digital clinic receptionist Agent that answers approved FAQs, collec
 - Synthetic parity module on Assistants Pro AI (FAQ/appointment/handoff/locale)
 
 **Technical stack**  
-Next.js 16 + React 19 clinic frontend Â· n8n clinic workflow orchestration Â· OpenAI/LLM assisted conversation flows Â· Google Sheets operational persistence (pre-Atlas cutover) Â· Assistants Pro AI platform packages Â· Tailwind CSS + Framer Motion Â· Vercel hosting for product surfaces
+Next.js 16 + React 19 clinic frontend · n8n clinic workflow orchestration · OpenAI/LLM assisted conversation flows · Google Sheets operational persistence (pre-Atlas cutover) · Assistants Pro AI platform packages · Tailwind CSS + Framer Motion · Vercel hosting for product surfaces
 
 **Engineering strategies**
 - Use Assistants Pro AI for packaging, demos, and tenant workspaces
@@ -319,7 +319,7 @@ A high-volume production n8n automation that discovers job posts, extracts links
 - Structured Output Parser for predictable job data
 
 **Technical stack**  
-n8n 2.6.4 (workflow orchestration) Â· OpenAI GPT-4.1 Mini (content extraction and rewriting) Â· n8n LangChain AI Agent (tool-enabled job extraction) Â· Structured Output Parser (schema-constrained AI result) Â· HTTP Request Tool (AI-controlled source fetching) Â· JavaScript Code Nodes (parsing, hashing, categorization) Â· Airtable (duplicate tracking and record storage) Â· WordPress REST API (post and media publishing) Â· Telegram Bot API (channel notification) Â· External Webhook Bridge (structured data forwarding)
+n8n 2.6.4 (workflow orchestration) · OpenAI GPT-4.1 Mini (content extraction and rewriting) · n8n LangChain AI Agent (tool-enabled job extraction) · Structured Output Parser (schema-constrained AI result) · HTTP Request Tool (AI-controlled source fetching) · JavaScript Code Nodes (parsing, hashing, categorization) · Airtable (duplicate tracking and record storage) · WordPress REST API (post and media publishing) · Telegram Bot API (channel notification) · External Webhook Bridge (structured data forwarding)
 
 **Engineering strategies**
 - Kept factual fields intact while rewriting content into original Arabic copy
@@ -362,7 +362,7 @@ A daily AI content automation pipeline that monitors technology news through RSS
 - Open Graph and Twitter image metadata extraction
 
 **Technical stack**  
-n8n 2.6.4 (daily workflow automation) Â· RSS Feed Read Node (source monitoring) Â· OpenAI GPT-4o Mini (bilingual content generation) Â· JavaScript Code Nodes (slugging, duplicate checks, validation) Â· HTTP Request Nodes (source fetch and API publish) Â· Next.js Blog API (custom publishing endpoint) Â· HTML Metadata Extraction (original image discovery) Â· JSON Payload Validation (safe publishing guard) Â· Docker VPS (self-hosted n8n runtime)
+n8n 2.6.4 (daily workflow automation) · RSS Feed Read Node (source monitoring) · OpenAI GPT-4o Mini (bilingual content generation) · JavaScript Code Nodes (slugging, duplicate checks, validation) · HTTP Request Nodes (source fetch and API publish) · Next.js Blog API (custom publishing endpoint) · HTML Metadata Extraction (original image discovery) · JSON Payload Validation (safe publishing guard) · Docker VPS (self-hosted n8n runtime)
 
 **Engineering strategies**
 - Required source image extraction to avoid publishing weak visual content
@@ -405,7 +405,7 @@ A production AI assistant connected to a Next.js portfolio through secure n8n we
 - JSON response flow back to the Next.js portfolio frontend
 
 **Technical stack**  
-n8n 2.6.4 (workflow orchestration and webhook automation) Â· Next.js API Route (chat endpoint and fallback layer) Â· OpenAI Chat Model (AI response generation) Â· n8n LangChain AI Agent (agent orchestration) Â· Window Buffer Memory (short-term conversation context) Â· HTTP Request Node (WhatsApp notification integration) Â· Respond to Webhook (structured JSON response) Â· Docker VPS Deployment (self-hosted automation runtime) Â· Header-based authentication (secure webhook validation)
+n8n 2.6.4 (workflow orchestration and webhook automation) · Next.js API Route (chat endpoint and fallback layer) · OpenAI Chat Model (AI response generation) · n8n LangChain AI Agent (agent orchestration) · Window Buffer Memory (short-term conversation context) · HTTP Request Node (WhatsApp notification integration) · Respond to Webhook (structured JSON response) · Docker VPS Deployment (self-hosted automation runtime) · Header-based authentication (secure webhook validation)
 
 **Engineering strategies**
 - Kept a local fallback inside the Next.js API route for resilience during automation downtime
@@ -434,38 +434,34 @@ n8n 2.6.4 (workflow orchestration and webhook automation) Â· Next.js API Route
 
 #### Mr. Ali Elgabry Portfolio
 
-Ø¨ÙˆØ±ØªÙÙˆÙ„ÙŠÙˆ Ø§Ø­ØªØ±Ø§ÙÙŠ Ù„Ù„Ø£Ø³ØªØ§Ø° Ø¹Ù„ÙŠ Ø§Ù„Ø¬Ø¨Ø±ÙŠØŒ Ø®Ø¨ÙŠØ± Ø§Ù„Ù„ØºØ© Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©ØŒ ÙŠØ¹ØªÙ…Ø¯ Ø¹Ù„Ù‰ Ù‡ÙˆÙŠØ© Ø¨ØµØ±ÙŠØ© Ù…Ø³ØªÙˆØ­Ø§Ø© Ù…Ù† Ø·Ø±Ø§Ø² 'The Modern Majlis' Ø§Ù„Ø°ÙŠ ÙŠÙ…Ø²Ø¬ Ø¨ÙŠÙ† ÙØ®Ø§Ù…Ø© Ø§Ù„ØªØ±Ø§Ø« Ø§Ù„Ø¹Ø±Ø¨ÙŠ ÙˆØ§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø±Ù‚Ù…ÙŠ Ø§Ù„Ø­Ø¯ÙŠØ«. ÙŠØªÙ…ÙŠØ² Ø¨ØªØµÙ…ÙŠÙ… Ù…ØªØ¬Ø§ÙˆØ¨ ØªÙ…Ø§Ù…Ø§Ù‹ Ø¨Ø§Ù„Ù„ÙˆÙ† Ø§Ù„Ø£Ø®Ø¶Ø± Ø§Ù„Ù…Ù„ÙƒÙŠ ÙˆØ§Ù„Ø°Ù‡Ø¨ÙŠØŒ Ù…Ø¹ Ø±Ø³ÙˆÙ… Ù…ØªØ­Ø±ÙƒØ© Ø³Ù„Ø³Ø© ÙˆØªØ¬Ø±Ø¨Ø© Ù…Ø³ØªØ®Ø¯Ù… ØªØ±ÙƒØ² Ø¹Ù„Ù‰ ÙˆØ¶ÙˆØ­ Ø§Ù„Ù…Ø­ØªÙˆÙ‰ Ø§Ù„ØªØ¹Ù„ÙŠÙ…ÙŠ.
+'The Modern Majlis' . .
 
 **Goal / positioning**
-- Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù…ÙƒÙˆÙ†Ø§Øª Ø§Ù„Ø¹Ù…ÙŠÙ„ (Client Components) Ø­ØµØ±Ø§Ù‹ Ù„Ù„ØªÙØ§Ø¹Ù„Ø§Øª ÙˆØ§Ù„Ø±Ø³ÙˆÙ… Ø§Ù„Ù…ØªØ­Ø±ÙƒØ©
-- ØªØµÙ…ÙŠÙ… Ù…Ø³ØªÙˆØ­Ù‰ Ù…Ù† Ø·Ø±Ø§Ø² Ø§Ù„Ù€ Modern Majlis Ø§Ù„Ø°ÙŠ ÙŠØ¬Ù…Ø¹ Ø¨ÙŠÙ† Ø§Ù„Ø£ØµØ§Ù„Ø© ÙˆØ§Ù„Ø­Ø¯Ø§Ø«Ø©
-- ØªÙˆØ²ÙŠØ¹ Ø§Ù„Ù…Ø­ØªÙˆÙ‰ Ø¨Ø´ÙƒÙ„ ÙŠØ¶Ù…Ù† ØªØ¬Ø±Ø¨Ø© Ù…Ø³ØªØ®Ø¯Ù… Ù…Ø±ÙŠØ­Ø© (UX)
+- (Client Components)
+- Modern Majlis
+- (UX)
 
 **Key features**
-- ØªØµÙ…ÙŠÙ… Ø¹ØµØ±ÙŠ ÙˆÙ…ØªØ¬Ø§ÙˆØ¨ Ù…Ø¹ Ø¬Ù…ÙŠØ¹ Ø£Ù†ÙˆØ§Ø¹ Ø§Ù„Ø´Ø§Ø´Ø§Øª (Responsive Design)
-- Ø±Ø³ÙˆÙ… Ù…ØªØ­Ø±ÙƒØ© Ø¬Ø°Ø§Ø¨Ø© ÙˆØ³Ù„Ø³Ø© Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ù…ÙƒØªØ¨Ø© Motion
-- Ø¯Ø¹Ù… ÙƒØ§Ù…Ù„ Ù„Ù„ØºØ© Ø§Ù„Ø¹Ø±Ø¨ÙŠØ© ÙˆØ§ØªØ¬Ø§Ù‡ Ø§Ù„Ù†Øµ Ù…Ù† Ø§Ù„ÙŠÙ…ÙŠÙ† Ù„Ù„ÙŠØ³Ø§Ø± (RTL)
-- Ù‚Ø³Ù… Ù…ÙØµÙ„ Ù„Ù„Ù…Ù…ÙŠØ²Ø§Øª ÙˆØ§Ù„Ø®Ø¯Ù…Ø§Øª Ø§Ù„ØªØ¹Ù„ÙŠÙ…ÙŠØ© Ø§Ù„Ù…Ù‚Ø¯Ù…Ø©
-- Ø¹Ø±Ø¶ Ù„Ø¢Ø±Ø§Ø¡ Ø§Ù„Ø·Ù„Ø§Ø¨ ÙˆØªÙ‚ÙŠÙŠÙ…Ø§ØªÙ‡Ù… (Testimonials Section)
-- Ø¬Ø¯Ø§ÙˆÙ„ Ø£Ø³Ø¹Ø§Ø± ÙˆØ§Ø¶Ø­Ø© ÙˆÙ…Ù†Ø¸Ù…Ø© Ù„Ù„Ø¨Ø§Ù‚Ø§Øª Ø§Ù„ØªØ¹Ù„ÙŠÙ…ÙŠØ©
+- (Responsive Design)
+- Motion
+- (RTL)
+- (Testimonials Section)
 
 **Technical stack**  
-Next.js 15.4.9 (App Router) Â· React 19.x Â· Tailwind CSS 4.1.11 Â· Motion (Framer Motion) 12.23.24 Â· Lucide React Icons Â· TypeScript Â· PostCSS & Autoprefixer
+Next.js 15.4.9 (App Router) · React 19.x · Tailwind CSS 4.1.11 · Motion (Framer Motion) 12.23.24 · Lucide React Icons · TypeScript · PostCSS & Autoprefixer
 
 **Engineering strategies**
-- ØªØ·Ø¨ÙŠÙ‚ Ù…Ø¨Ø§Ø¯Ø¦ Ø§Ù„Ù€ Accessibility Ù„Ø¶Ù…Ø§Ù† ÙˆØµÙˆÙ„ Ø§Ù„Ø¬Ù…ÙŠØ¹ Ù„Ù„Ù…Ø­ØªÙˆÙ‰
-- Ø¥Ø¯Ø§Ø±Ø© Ø§Ù„Ø­Ø§Ù„Ø© Ø¨Ø§Ø³ØªØ®Ø¯Ø§Ù… Ø§Ù„Ù€ React Hooks Ø§Ù„Ø£Ø³Ø§Ø³ÙŠØ©
+- Accessibility
+- React Hooks
 
 **Performance**
-- Ø§Ù„Ø§Ø³ØªÙØ§Ø¯Ø© Ù…Ù† Static Site Generation (SSG) Ù„Ø³Ø±Ø¹Ø© Ø§Ø³ØªØ«Ù†Ø§Ø¦ÙŠØ©
-- ØªØ­Ø³ÙŠÙ† Ø§Ù„ØµÙˆØ± ÙˆØªØµØºÙŠØ± Ø­Ø¬Ù…Ù‡Ø§ ØªÙ„Ù‚Ø§Ø¦ÙŠØ§Ù‹
-- ØªÙ‚Ù„ÙŠÙ„ Ø§Ø³ØªÙ‡Ù„Ø§Ùƒ Ø§Ù„Ù€ JavaScript ÙÙŠ Ø§Ù„Ø£Ù…Ø§ÙƒÙ† ØºÙŠØ± Ø§Ù„Ø¶Ø±ÙˆØ±ÙŠØ©
-- Ø§Ø³ØªØ®Ø¯Ø§Ù… Tailwind CSS 4 Ù„ØªÙ‚Ù„ÙŠÙ„ Ø­Ø¬Ù… Ù…Ù„Ù Ø§Ù„Ù€ CSS Ø§Ù„Ù†Ù‡Ø§Ø¦ÙŠ
+- Static Site Generation (SSG)
+- JavaScript
+- Tailwind CSS 4 CSS
 
 **Security & reliability**
-- Ø§ØªØ¨Ø§Ø¹ Ù…Ø¹Ø§ÙŠÙŠØ± Ø§Ù„Ø£Ù…Ø§Ù† ÙÙŠ Next.js
-- Ø­Ù…Ø§ÙŠØ© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª ÙÙŠ Ø±ÙˆØ§Ø¨Ø· Ø§Ù„ØªÙˆØ§ØµÙ„ Ø§Ù„Ø§Ø¬ØªÙ…Ø§Ø¹ÙŠ
-- Ø¯Ø¹Ù… Ø¨Ø±ÙˆØªÙˆÙƒÙˆÙ„ HTTPS Ø¹Ù†Ø¯ Ø§Ù„Ù†Ø´Ø±
+- Next.js
+- HTTPS
 
 - **Live / demo:** https://mr-ali-elgabry-portfolio.vercel.app/
 - **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/7
@@ -490,7 +486,7 @@ Fabrica Store is a modern, full-featured e-commerce platform built with cutting-
 - Real-time product search from header
 
 **Technical stack**  
-Next.js 15.5.6 (App Router, Server/Client Components, Suspense, Streaming) Â· React 19.0.0 (Latest React with Hooks and Context API) Â· Turbopack (Fast build engine for development) Â· Firebase 12.0.0 (Authentication, Cloud Firestore, Real-time Database) Â· Cloudinary 2.7.0 (Image Upload, Optimization, CDN Delivery) Â· Tailwind CSS 4.1.13 (Utility-First CSS with Dark Mode support) Â· Material-UI (MUI) 7.3.2 (Component library with Theme Provider) Â· @emotion/react & @emotion/styled (CSS-in-JS for dynamic styling) Â· @heroicons/react (SVG icon library) Â· TanStack React Query 5.85.0 (Server state management, caching, background refetching)
+Next.js 15.5.6 (App Router, Server/Client Components, Suspense, Streaming) · React 19.0.0 (Latest React with Hooks and Context API) · Turbopack (Fast build engine for development) · Firebase 12.0.0 (Authentication, Cloud Firestore, Real-time Database) · Cloudinary 2.7.0 (Image Upload, Optimization, CDN Delivery) · Tailwind CSS 4.1.13 (Utility-First CSS with Dark Mode support) · Material-UI (MUI) 7.3.2 (Component library with Theme Provider) · @emotion/react & @emotion/styled (CSS-in-JS for dynamic styling) · @heroicons/react (SVG icon library) · TanStack React Query 5.85.0 (Server state management, caching, background refetching)
 
 **Engineering strategies**
 - Incremental Static Regeneration (ISR) with revalidate for automatic content updates
@@ -533,7 +529,7 @@ FoodEx is a modern, comprehensive restaurant management and dish display website
 - Rating system with star display
 
 **Technical stack**  
-React 18.3.1 (Hooks, Context API, Functional Components) Â· React Router DOM 7.0.1 (Client-side routing and navigation) Â· Firebase 11.7.3 (Authentication, Cloud Firestore, Storage) Â· Material-UI (MUI) 6.1.9 (Component library with theming) Â· @emotion/react 11.13.5 (CSS-in-JS styling) Â· @emotion/styled 11.13.5 (Styled components) Â· @mui/icons-material 6.1.9 (Icon library) Â· SweetAlert2 11.21.0 (Beautiful alert dialogs) Â· React Scripts 5.0.1 (Build and development tools) Â· Web Vitals 2.1.4 (Performance monitoring)
+React 18.3.1 (Hooks, Context API, Functional Components) · React Router DOM 7.0.1 (Client-side routing and navigation) · Firebase 11.7.3 (Authentication, Cloud Firestore, Storage) · Material-UI (MUI) 6.1.9 (Component library with theming) · @emotion/react 11.13.5 (CSS-in-JS styling) · @emotion/styled 11.13.5 (Styled components) · @mui/icons-material 6.1.9 (Icon library) · SweetAlert2 11.21.0 (Beautiful alert dialogs) · React Scripts 5.0.1 (Build and development tools) · Web Vitals 2.1.4 (Performance monitoring)
 
 **Engineering strategies**
 - Firebase Firestore for real-time database operations
@@ -558,7 +554,7 @@ React 18.3.1 (Hooks, Context API, Functional Components) Â· React Router DOM 7
 
 ---
 
-#### First Portfolio (Personal Developer Portfolio)
+#### Personal Developer Portfolio
 
 A modern, responsive developer portfolio built with Next.js 16 featuring animated sections, a projects gallery, SEO optimization, and clean reusable UI components. The site showcases personal projects with dedicated detail pages, an integrated contact form via Web3Forms, and smooth Framer Motion & Lottie animations throughout.
 
@@ -571,12 +567,12 @@ A modern, responsive developer portfolio built with Next.js 16 featuring animate
 - Hero Section with typewriter introduction and CTA buttons
 - About Section with animated bio and Lottie circle animation
 - Skills Section with auto-scrolling skills list, detail view, and circular progress indicators
-- Projects Gallery â€” JSON-driven grid with dedicated detail pages per project
+- Projects Gallery — JSON-driven grid with dedicated detail pages per project
 - Contact Section with integrated contact form via Web3Forms
-- Full SEO Optimization â€” metadata, OpenGraph, Twitter Cards, JSON-LD structured data, canonical URLs
+- Full SEO Optimization — metadata, OpenGraph, Twitter Cards, JSON-LD structured data, canonical URLs
 
 **Technical stack**  
-Next.js 16 (App Router, Turbopack) Â· React 19 (Latest React with Hooks and Context API) Â· Tailwind CSS 4 (Utility-first CSS with responsive design) Â· Framer Motion (Advanced motion design and animations) Â· Lucide React (Modern SVG icon library) Â· Simple Icons (SVG technology icons) Â· Lottie React (Interactive Lottie animations) Â· Web3Forms (Contact form integration) Â· Google Fonts â€” Inter, Poppins (Custom typography) Â· Vercel (Deployment platform)
+Next.js 16 (App Router, Turbopack) · React 19 (Latest React with Hooks and Context API) · Tailwind CSS 4 (Utility-first CSS with responsive design) · Framer Motion (Advanced motion design and animations) · Lucide React (Modern SVG icon library) · Simple Icons (SVG technology icons) · Lottie React (Interactive Lottie animations) · Web3Forms (Contact form integration) · Google Fonts — Inter, Poppins (Custom typography) · Vercel (Deployment platform)
 
 **Engineering strategies**
 - Framer Motion for declarative page and component transitions
@@ -597,7 +593,7 @@ Next.js 16 (App Router, Turbopack) Â· React 19 (Latest React with Hooks and Co
 
 ### Learning Foundations
 
-#### Diverse Projects (Ù…Ø´Ø§Ø±ÙŠØ¹ Ù…ØªÙ†ÙˆØ¹Ø©)
+#### Diverse Learning Projects
 
 A collection of several smaller projects completed during training, showcasing a variety of skills including Vanilla JavaScript, React, Material UI, and CSS animations. These projects demonstrate a solid foundation in front-end development through interactive games and utility applications.
 
@@ -614,7 +610,7 @@ A collection of several smaller projects completed during training, showcasing a
 - Word Guessing Game with color-coded feedback and image hints.
 
 **Technical stack**  
-Vanilla JS Â· React Â· Material UI Â· CSS Animations Â· Framer Motion Â· HTML5
+Vanilla JS · React · Material UI · CSS Animations · Framer Motion · HTML5
 
 **Performance**
 - Optimized image collage for fast loading
@@ -648,6 +644,4 @@ Selected documentation and live previews are publicly available through this pro
 
 ---
 
-*For recruiters and technical reviewers: start with Mohamed Abdelwahab Constructions and Voyajar, then PharmaFlow / Nuzlaa. Review AI platforms and automation demos after the production web platforms â€” some automation and agent UI packaging is still under active development.*
-
-
+*For recruiters and technical reviewers: start with Mohamed Abdelwahab Constructions and Voyajar, then PharmaFlow / Nuzlaa. Review AI platforms and automation demos after the production web platforms — some automation and agent UI packaging is still under active development.*
