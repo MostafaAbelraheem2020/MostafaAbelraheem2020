@@ -49,49 +49,22 @@ Most production and client repositories are kept **private** to protect source c
 
 ---
 
-## Projects Overview
+## Public Showcase Repositories
 
-Projects are ordered by current presentation strength: production client platforms first, then AI platforms, then automation systems whose public UI surfaces are still evolving.
+Pinned / review order for visitors:
 
-### Flagship Production Platforms
-
-#### Bayoumy Co. | Corporate Construction Website
-
-A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdewahab Bayoumy Company.
-
-**Goal / positioning**
-- Hybrid Rendering: SSG for content pages with Client-side interactivity
-- Edge Middleware: Security headers and route protection
-- Dynamic i18n: Client-side language switching with SEO-ready structure
-
-**Key features**
-- Advanced Internationalization (i18n) with Native Bilingual Support (AR/EN)
-- SEO-First Localization with dynamic hreflang tags
-- SSG (Static Site Generation) for 60+ projects and news items
-- Automated Visual Optimization (AVIF/WebP) with cache-control
-- Hardware-accelerated animations via Framer Motion
-- Comprehensive Metadata & Structured Data (JSON-LD) for all routes
-
-**Technical stack**  
-Next.js 16.1.6 (App Router, Server Components, Streaming) · React 19.2.4 (Latest React with Hooks and Context API) · TypeScript 5.9.3 (Strict type safety and improved DX) · Tailwind CSS 4.1.18 (Modern utility-first styling with @tailwindcss/postcss) · Framer Motion 12.34.0 (Advanced motion design and hardware-accelerated animations) · Lucide React 0.564.0 (Modern SVG icon library) · Resend API 6.9.3 (Scalable email delivery system) · Sharp 0.34.5 (High-performance image processing) · Swiper 12.1.1 (Interactive and touch-responsive carousels) · ESLint 10 & Prettier (Strict code quality and formatting)
-
-**Engineering strategies**
-- Optimized Asset Pipeline: Next/Image with AVIF/WebP support
-- Component-based Architecture: Highly modular and reusable React components
-- Motion-First UX: Seamless transitions and hardware-accelerated animations
-- Anti-Spam Security: Honeypot fields and rate-limiting for all forms
-
-**Performance**
-- Static Site Generation (SSG) for sub-second page loads
-- Advanced Image Optimization using Next.js Image component
-- Code-splitting and Lazy Loading for non-critical assets
-- Font optimization via next/font with local storage caching
-
-- **Live / demo:** https://www.mabdelwahabconstructions.com/
-- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/1
-- **Public showcase:** https://github.com/MostafaAbelraheem2020/mabdelwahab-constructions-showcase
+1. [voyajar-showcase](https://github.com/MostafaAbelraheem2020/voyajar-showcase) — Voyajar travel platform
+2. [mabdelwahab-constructions-showcase](https://github.com/MostafaAbelraheem2020/mabdelwahab-constructions-showcase) — Mohamed Abdelwahab Constructions
+3. [marshal-agent-showcase](https://github.com/MostafaAbelraheem2020/marshal-agent-showcase) — Marshal AI ecommerce agent
+4. [pharmaflow-showcase](https://github.com/MostafaAbelraheem2020/pharmaflow-showcase) — PharmaFlow pharmacy SaaS/PWA
 
 ---
+
+## Projects Overview
+
+Projects are ordered by current presentation strength: Voyajar and Mohamed Abdelwahab Constructions first, then PharmaFlow / Nuzlaa, AI platforms, then automation systems whose public UI surfaces are still evolving.
+
+### Flagship Production Platforms
 
 #### Voyajar | Travel Discovery & Affiliate Platform
 
@@ -132,6 +105,44 @@ Next.js 16.2.9 (App Router) · React 19.2.5 · TypeScript · next-intl for multi
 - **Live / demo:** https://www.voyajar.com/
 - **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/14
 - **Public showcase:** https://github.com/MostafaAbelraheem2020/voyajar-showcase
+
+---
+
+#### Bayoumy Co. | Corporate Construction Website
+
+A premium, bilingual (Arabic/English) corporate platform built for Mohamed Abdewahab Bayoumy Company.
+
+**Goal / positioning**
+- Hybrid Rendering: SSG for content pages with Client-side interactivity
+- Edge Middleware: Security headers and route protection
+- Dynamic i18n: Client-side language switching with SEO-ready structure
+
+**Key features**
+- Advanced Internationalization (i18n) with Native Bilingual Support (AR/EN)
+- SEO-First Localization with dynamic hreflang tags
+- SSG (Static Site Generation) for 60+ projects and news items
+- Automated Visual Optimization (AVIF/WebP) with cache-control
+- Hardware-accelerated animations via Framer Motion
+- Comprehensive Metadata & Structured Data (JSON-LD) for all routes
+
+**Technical stack**  
+Next.js 16.1.6 (App Router, Server Components, Streaming) · React 19.2.4 (Latest React with Hooks and Context API) · TypeScript 5.9.3 (Strict type safety and improved DX) · Tailwind CSS 4.1.18 (Modern utility-first styling with @tailwindcss/postcss) · Framer Motion 12.34.0 (Advanced motion design and hardware-accelerated animations) · Lucide React 0.564.0 (Modern SVG icon library) · Resend API 6.9.3 (Scalable email delivery system) · Sharp 0.34.5 (High-performance image processing) · Swiper 12.1.1 (Interactive and touch-responsive carousels) · ESLint 10 & Prettier (Strict code quality and formatting)
+
+**Engineering strategies**
+- Optimized Asset Pipeline: Next/Image with AVIF/WebP support
+- Component-based Architecture: Highly modular and reusable React components
+- Motion-First UX: Seamless transitions and hardware-accelerated animations
+- Anti-Spam Security: Honeypot fields and rate-limiting for all forms
+
+**Performance**
+- Static Site Generation (SSG) for sub-second page loads
+- Advanced Image Optimization using Next.js Image component
+- Code-splitting and Lazy Loading for non-critical assets
+- Font optimization via next/font with local storage caching
+
+- **Live / demo:** https://www.mabdelwahabconstructions.com/
+- **Case details:** https://mostafa-abdelrahem-portfolio.vercel.app/projects/1
+- **Public showcase:** https://github.com/MostafaAbelraheem2020/mabdelwahab-constructions-showcase
 
 ---
 
@@ -644,4 +655,4 @@ Selected documentation and live previews are publicly available through this pro
 
 ---
 
-*For recruiters and technical reviewers: start with Mohamed Abdelwahab Constructions and Voyajar, then PharmaFlow / Nuzlaa. Review AI platforms and automation demos after the production web platforms — some automation and agent UI packaging is still under active development.*
+*For recruiters and technical reviewers: start with Voyajar and Mohamed Abdelwahab Constructions, then Marshal / PharmaFlow. Review remaining AI/automation demos after the production web platforms — some automation and agent UI packaging is still under active development.*
